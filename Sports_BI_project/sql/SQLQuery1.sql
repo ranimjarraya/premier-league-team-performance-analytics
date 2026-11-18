@@ -1,0 +1,5 @@
+CREATE DATABASE SportsBI;
+GO
+
+USE SportsBI;
+GO
